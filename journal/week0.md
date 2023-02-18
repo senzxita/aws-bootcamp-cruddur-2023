@@ -19,7 +19,8 @@ I integrated GitPod with GitHub and downloaded a browser extension for easy acce
 I recreated the Logical architectural diagram and also added some new information
 Placing  WAF and CloudFront before the Application Loadbalancer will help monitor and filter malicious traffic from again access to the application. It prevents downtime and allows real users access the application. While CloudFront is used to bring the content closer to the user wherever they may be accessing the application from. It routes the content to the edge location closest to the user. Lastly added an SNS service where lambda functions give notification and received by the users, based on several checks. View the diagram on Lucid charts [here](https://lucid.app/documents/view/de284010-2d55-43f1-bda2-44f14965328f)
 
-<img width="811" alt="Screenshot 2023-02-18 at 05 55 07" src="https://user-images.githubusercontent.com/20463821/219869660-c4c47b9f-c6f1-49cc-b42d-3a200ebe964c.png">
+<img width="798" alt="Screenshot 2023-02-18 at 06 18 37" src="https://user-images.githubusercontent.com/20463821/219870823-822543d8-ab1f-4744-aad0-09d50e30db62.png">
+
 
 ## GitPod
 Installed AWS CLI through Gitpod and created the budget (One Dollar Budget) through CLI, and setup billing alarms (through CloudWatch) and SNS topic
