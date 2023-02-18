@@ -22,5 +22,18 @@ Placing  WAF and CloudFront before the Application Loadbalancer will help monito
 <img width="811" alt="Screenshot 2023-02-18 at 05 55 07" src="https://user-images.githubusercontent.com/20463821/219869660-c4c47b9f-c6f1-49cc-b42d-3a200ebe964c.png">
 
 ## GitPod
-Installed AWS CLI through Gitpod and created the 
+Installed AWS CLI through Gitpod and created the budget (One Dollar Budget) through CLI, and setup billing alarms (through CloudWatch) and SNS topic
 
+<img width="1063" alt="Screenshot 2023-02-18 at 06 08 45" src="https://user-images.githubusercontent.com/20463821/219870370-43735016-5323-4475-b99e-a2a2c50f4f5c.png">
+
+<img width="913" alt="Screenshot 2023-02-18 at 06 12 23" src="https://user-images.githubusercontent.com/20463821/219870504-bae95ac4-32b2-4081-bbb5-6b1c1aa37c9b.png">
+
+<img width="1069" alt="Screenshot 2023-02-18 at 06 13 17" src="https://user-images.githubusercontent.com/20463821/219870532-44e76c67-0c15-4333-b021-a313e7b8b72e.png">
+
+## References
+I made use of the following resources
+- [Video](https://www.youtube.com/watch?v=OdUnNuKylHg&list=PLBfufR7vyJJ7k25byhRXJldB5AiwgNnWv&index=15) in the student portal 
+- [AWS CLI documentation](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+- [The CloudBootcamp Repo](https://github.com/omenking/aws-bootcamp-cruddur-2023/blob/week-0/journal/week0.md)
+
+I learned a great deal. Thank you!
